@@ -3,8 +3,11 @@
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Oh-Jongjin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Oh-Jongjin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
+---
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> 
 <!---
 - [ ] Python
 - [ ] Swift
