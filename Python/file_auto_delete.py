@@ -82,7 +82,7 @@ class FileAutoDelete(QWidget, form):
             print(old_folder)
 
             try:
-                # shutil.rmtree(old_folder)
+                shutil.rmtree(old_folder)
                 self.progressBar.setValue(self.progressBar.value() + 1)
                 sys.exit()
             except IndexError:
