@@ -1,21 +1,38 @@
-# _**TODO**_
+# AFD (=Auto File Delete)
 
-<!-- <img src = "https://user-images.githubusercontent.com/45455262/116016938-23fd7980-a679-11eb-8c04-2b21663d1fe5.jpg" width=100%> -->
+The design goal of **AFD** is to support automatic optimization after detecting storage space.
 
----
+## Key Features
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Oh-JongJin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+- Delete the oldest file from the path selected by the user.
 
----
+## Setting Up Development Environment
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> 
+- Visual Studio Code with the end of line sequence to **LF**. You can set git to resolve the issue automatically:
 
-<!---
-- [ ] Python
-- [ ] Swift
-- [ ] C#
+### Windows
 
+```bash
+  git config --global core.autocrlf true
+```
 
-Oh-JongJin/Oh-JongJin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Linux and MacOS
+
+```bash
+  git config --global core.autocrlf input
+```
+
+## Setting Up Execution Environment
+
+### Python Packages
+
+#### Windows 10
+
+Required Python packages that can be installed using `pip`:
+
+- python >= 3.8
+- PyQt5 >= 5.13
+
+#### Ubuntu 20.04
+
+You can install most of the prerequisites using Ubuntu package manager, apt.
