@@ -1,8 +1,6 @@
-# _**TODO**_
+<p align="center"><img src = "https://user-images.githubusercontent.com/45455262/116016938-23fd7980-a679-11eb-8c04-2b21663d1fe5.jpg">
 
-<!-- <img src = "https://user-images.githubusercontent.com/45455262/116016938-23fd7980-a679-11eb-8c04-2b21663d1fe5.jpg" width=100%> -->
-
----
+<!-- <p align="center"> - -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Oh-Jongjin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
