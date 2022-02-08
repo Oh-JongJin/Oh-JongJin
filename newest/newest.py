@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 """
 타겟 클릭 시 이미지(가장 최근에 캡쳐된 이미지 파일)를 출력하는 함수
 A function that outputs the target image(most recently captured image file) when target is clicked.
