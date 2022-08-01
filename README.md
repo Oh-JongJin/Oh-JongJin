@@ -9,13 +9,10 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
 
   [<img src = "https://img.shields.io/github/followers/Oh-JongJin?style=social">](https://img.shields.io/github/followers/Oh-JongJin?style=social)
 <!---
-- [ ] Python
-- [ ] Swift
-- [ ] C#
 
 
 Oh-JongJin/Oh-JongJin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
