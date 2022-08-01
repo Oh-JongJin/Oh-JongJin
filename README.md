@@ -8,10 +8,18 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Oh-Jongjin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 ---
+<div align=center>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">   
+  </div>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	[<img src = "https://img.shields.io/github/followers/Oh-JongJin?style=social">](https://img.shields.io/github/followers/Oh-JongJin?style=social)
+  </div>
+  
+  
 
-  [<img src = "https://img.shields.io/github/followers/Oh-JongJin?style=social">](https://img.shields.io/github/followers/Oh-JongJin?style=social)
 <!---
 
 
