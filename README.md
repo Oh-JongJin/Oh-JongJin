@@ -29,7 +29,7 @@
 	
 <p align="center"><img src = "https://user-images.githubusercontent.com/45455262/116016938-23fd7980-a679-11eb-8c04-2b21663d1fe5.jpg">
 
-<p align="center"> ### Did you think before you speak?
+
 </details>
 
 <!---
