@@ -9,7 +9,7 @@
 
   <div align=center>
   
-  ### My Skills 💡
+<!-- ### My Skills 💡 -->
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
