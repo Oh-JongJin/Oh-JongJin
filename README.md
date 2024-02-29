@@ -23,9 +23,16 @@
   <!-- [<img src = "https://img.shields.io/github/followers/Oh-JongJin?style=social">](https://img.shields.io/github/followers/Oh-JongJin?style=social) -->
   </div>
   
+
+
+<div align="center">
+  <a href="https://ohjongjin.notion.site/Oh-Jongjin-Portfolio-188da79eaf0248d5a64f14c4e93f7a96">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</div>
   
 <details>
-  <summary>...</summary>
+  <summary></summary>
 
 	
 <p align="center"><img src = "https://user-images.githubusercontent.com/45455262/116016938-23fd7980-a679-11eb-8c04-2b21663d1fe5.jpg">
